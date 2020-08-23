@@ -17,4 +17,4 @@ DANE WYJŚCIOWE:
 (4, 7, 10, 19, 21), 61
 (1, 1, 2, 2, 3, 3, 4, 5, 6, 7, 8, 9, 10), 61
 
-Podczas semestru zajęć dotyczących metaheurystyk udało mi się nauczyć podstaw pythona, stworzyć metodę siłową oraz wspinaczkową.
+Podczas semestru zajęć dotyczących metaheurystyk udało mi się nauczyć podstaw pythona, stworzyć metodę siłową, greedy oraz wspinaczkową.
